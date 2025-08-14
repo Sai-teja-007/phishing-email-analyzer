@@ -41,7 +41,7 @@ python3 analyzer.py samples/
 
 📌 Example Output
 ```
-[+] Processing: invoice_notice.eml
+    Processing: invoice_notice.eml
     From: admin@fakebank.com
     Subject: Urgent: Account Verification
     Originating IP: 185.210.219.42

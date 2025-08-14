@@ -1,0 +1,7 @@
+File: 2020-05-05-phishing-email-example-03.eml
+From: Email Service <no_reply562@verify.com>
+Return-Path: 
+Subject: Important Notice for brad@malware-traffic-analysis.net
+Origin IP: 45.167.36.40
+GeoIP: GeoIP Country Edition: BR, Brazil
+URLs: None

@@ -1,0 +1,7 @@
+File: 2020-05-05-phishing-email-example-01.eml
+From: malware-traffic-analysis.net Support <sues@nnwifi.com>
+Return-Path: 
+Subject: =?UTF-8?B?ICDimqDvuI8gV2FybmluZzogIOKchSBGaW5hbCBub3RpY2UgOiA=?=malware-traffic-analysis.net=?UTF-8?B?4oSiIA==?=
+Origin IP: 173.46.174.49
+GeoIP: GeoIP Country Edition: US, United States
+URLs: None

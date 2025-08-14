@@ -1,0 +1,9 @@
+File: test_phish.eml
+From: "Netflix Support" <support@netfl1x.com>
+Return-Path: support@netfl1x.com
+Subject: Urgent - Verify your account
+Origin IP: 185.234.217.12
+GeoIP: GeoIP Country Edition: NL, Netherlands
+URLs Found:
+  - http://netfl1x-login.com/reset  [NON-HTTPS LINK]
+ALERT: Mismatch between From and Return-Path domains!

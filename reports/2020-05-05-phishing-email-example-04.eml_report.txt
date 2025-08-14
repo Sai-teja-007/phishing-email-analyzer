@@ -1,0 +1,7 @@
+File: 2020-05-05-phishing-email-example-04.eml
+From: malware-traffic-analysis.net  <sales@maxsgmail.top>
+Return-Path: 
+Subject: brad@malware-traffic-analysis.net Kindly Re-Validate 
+Origin IP: 117.50.10.134
+GeoIP: GeoIP Country Edition: CN, China
+URLs: None

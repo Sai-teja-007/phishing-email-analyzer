@@ -1,0 +1,7 @@
+File: 2020-05-05-phishing-email-example-02.eml
+From: "eMail Admin" <noreply@domain.com>
+Return-Path: 
+Subject: You have (3) failed email deliveries
+Origin IP: 38.68.46.250
+GeoIP: GeoIP Country Edition: US, United States
+URLs: None
